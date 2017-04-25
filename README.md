@@ -1,6 +1,6 @@
 # Repeticion
 
-![Texto alternativo](/home/agustin/Pictures/gato.jpg)
+![Texto alternativo](https://i.ytimg.com/vi/Zuz_TnY1skE/maxresdefault.jpg)
 
 
 **Problema:**
