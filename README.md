@@ -14,6 +14,7 @@
 
 
 #include <iostream>
+
  int main() {
 	char frase [200];
 	std::cout << "Ingrese la frase que quiere que se repita:";
@@ -77,6 +78,7 @@
  
  
 #include <iostream>
+
 int main() {
 	char frase [200];
 	int a; /* a es la variable de repeticion */
