@@ -14,13 +14,13 @@
 
 	1.En el programa itineracion.cpp se utilizo:
 	
-		 a Entero;
+		 a -> Entero
 		 
-		 frase char
+		 frase ->char
 		 
 	2. En el porgrama saltos:
 	
-		frase char.
+		frase -> char
   
   
  **Algoritmos**
