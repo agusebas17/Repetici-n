@@ -11,6 +11,7 @@
   En la segunda forma, se solicito de la misma forma que el usuario ingrese la frase que se desea repetir, pero se repetira de, una manera fija, 50 veces. Tambien se imprimira un mensaje indicnado el mensaje que se repetira y la cantidad de veces (50).
   
 **Lexico:**
+
 	1.En el programa itineracion.cpp se utilizo:
 	
 		 a Entero;
