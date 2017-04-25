@@ -1,5 +1,8 @@
 # Repeticion
 
+
+![Screenshot](gato.png)
+
 **Problema:**
   Enviar una frase a la salida estándar muchas veces.
   
