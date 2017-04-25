@@ -1,5 +1,8 @@
 # Repeticion
 
+![Texto alternativo](/home/agustin/Pictures/gato.jpg)
+
+
 **Problema:**
   Enviar una frase a la salida estándar muchas veces.
   
