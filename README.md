@@ -1,8 +1,5 @@
 # Repeticion
 
-![Texto alternativo](https://i.ytimg.com/vi/Zuz_TnY1skE/maxresdefault.jpg)
-
-
 **Problema:**
   Enviar una frase a la salida estándar muchas veces.
   
