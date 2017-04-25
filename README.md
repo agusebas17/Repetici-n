@@ -14,7 +14,7 @@
  **Algoritmos**
 *Saltos:*
 
-
+```c++
 #include <iostream>
 
  int main() {
@@ -74,7 +74,7 @@
 	std::cout << frase << "\n";
 	std::cout << frase << "\n";
 }
-
+```
 
  *Itineracion:*
  
