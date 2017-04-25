@@ -10,6 +10,8 @@
   La segunda forma se solicito de la misma forma que el usuario ingrese la frase que se desea repetir, pero se repetira de una manera fija 50 veces, imprimiendo un mensaje indicnado el mensaje que se repetira y la cantidad de veces (50).
 ## **Algoritmos**
 *Saltos:*
+
+
  ´´´int main() {
 	char frase [200];
 	std::cout << "Ingrese la frase que quiere que se repita:";
@@ -69,6 +71,7 @@
 }
 ´´´
  *Itineracion:*
+ 
  
 ´´´int main() {
 	char frase [200];
