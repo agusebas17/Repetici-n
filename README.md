@@ -12,7 +12,7 @@
 *Saltos:*
 
 
- ´´´#include <iostream>
+#include <iostream>
  int main() {
 	char frase [200];
 	std::cout << "Ingrese la frase que quiere que se repita:";
@@ -70,13 +70,11 @@
 	std::cout << frase << "\n";
 	std::cout << frase << "\n";
 }
-´´´
 
 
  *Itineracion:*
  
  
-´´´
 #include <iostream>
 int main() {
 	char frase [200];
@@ -92,4 +90,4 @@ int main() {
 	}
 	return 0;
 }
-´´´
+
