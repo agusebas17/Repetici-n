@@ -3,12 +3,19 @@
 **Problema:**
   Enviar una frase a la salida estándar muchas veces.
   
-  **Analisis:**
+**Analisis:**
   El problema consiste en "imprimir" una frase n veces, realizando este programa de dos formas: itineracon y saltos.
   
   La primera se resolvio solicitando al usuario que ingrese tanto la cantidad de veces que se desea repetir el mensaje, como dicho mensaje. Para que se logre esto se utilizo una estructura de repeticion "FOR", utilizando la variable ingresada por el usuario para que se cumpla lo deseado. A su vez se imprime un mensaje indicando el mensaje que se repetira y la cantidad de veces. 
   
   En la segunda forma, se solicito de la misma forma que el usuario ingrese la frase que se desea repetir, pero se repetira de, una manera fija, 50 veces. Tambien se imprimira un mensaje indicnado el mensaje que se repetira y la cantidad de veces (50).
+  
+**Lexico:**
+	1.En el programa itineracion.cpp se utilizo:
+		 a Entero;
+		 frase char
+	2. En el porgrama saltos:
+		frase char.
   
   
  **Algoritmos**
